@@ -1,8 +1,8 @@
 import React from 'react';
 import {Provider} from 'react-redux';
-import {store} from './src/store';
+import {store} from '@universal/common/store';
 
-import Home from './src/containers/Home';
+import Home from '@universal/common/containers/Home';
 
 export default function App() {
   return (
