@@ -1,0 +1,11 @@
+{
+  "name": "UniversalApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Saad Ibrahim <saad.lakhany@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
